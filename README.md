@@ -56,10 +56,11 @@ now you can run the project
 ```
 
 🔴 Demo
-<video width="500" height="auto" autoplay loop>
-  <source src="./images/Demo/demo.mp4" type="video/mp4">
- Demo video of Hand-Sketch.
+<video width="640" height="480" controls>
+  <source src="https://github.com/VISHRUT225/Hand-Sketch/blob/main/images/Demo/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
+
 
 ## 🤝🏻 Contributing
 

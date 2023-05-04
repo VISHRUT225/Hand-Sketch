@@ -56,7 +56,8 @@ now you can run the project
 ```
 
 🔴 Demo
-![video](https://github.com/VISHRUT225/Hand-Sketch/blob/main/images/Demo/demo.mp4)
+<img src="./images/Demo/handsketch.gif" alt="Handsketch gif" style="width: 300px; height: auto;">
+![GIF](./images/Demo/handsketch.gif)
 
 Contributions are welcome! If you find any issues or would like to suggest an improvement, please create a new issue or pull request.
 

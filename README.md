@@ -57,7 +57,7 @@ now you can run the project
 
 🔴 Demo
 <video width="500" height="auto" autoplay loop>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="./images/Demo/demo.mp4" type="video/mp4">
  Demo video of Hand-Sketch.
 </video>
 

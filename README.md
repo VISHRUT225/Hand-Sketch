@@ -4,7 +4,7 @@ HandSketch is a program that allows you to draw on a virtual whiteboard using yo
 
 ![](./images/Thumbnail.png)
 
-✨ Features
+## ✨ Features
 - Hand gesture recognition for drawing
 - Virtual Whiteboard to draw
 - Customizable brush sizes and colors

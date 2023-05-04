@@ -56,8 +56,7 @@ now you can run the project
 ```
 
 🔴 Demo
-<img src="./images/Demo/handsketch.gif" alt="Handsketch gif" style="width: 300px; height: auto;">
-![GIF](./images/Demo/handsketch.gif)
+<img src="./images/Demo/handsketch.gif" alt="Handsketch gif" >
 
 Contributions are welcome! If you find any issues or would like to suggest an improvement, please create a new issue or pull request.
 

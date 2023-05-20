@@ -60,6 +60,7 @@ now you can run the project
 ## 🎞 Sample output:
 
 <img src="./images/Demo/handsketch.gif" alt="handsketch gif" >
+![handsketch gif](./images/Demo/handsketch.gif)
 
 ## 🤝🏻 Contributing
 

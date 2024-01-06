@@ -21,8 +21,7 @@ HandSketch is a program that allows you to draw on a virtual whiteboard using yo
 - NumPy (used for creating the canvas for drawing)
 
 ## 🔴 Demo 
-https://github.com/VISHRUT225/Hand-Sketch/raw/main/images/Demo/demo.mp4
-
+https://github.com/VISHRUT225/Hand-Sketch/assets/102377338/8ad2acfa-862e-4d4d-a21a-aedff9a1aea5
 
 ## :key: Prerequisites
 1. You should install python version 3.7 or more
@@ -59,7 +58,7 @@ now you can run the project
 
 ## 🎞 Sample output:
 
-<img src="./images/Demo/handsketch.gif" alt="handsketch gif" >
+
 
 ## 🤝🏻 Contributing
 
